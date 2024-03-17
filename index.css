@@ -1,0 +1,62 @@
+ 
+ .collapse .navbar-nav {
+
+    list-style: none;
+
+
+
+
+}
+ 
+.collapse .navbar-nav .nav-item {
+
+
+    padding: 12px;
+    font: 16px "Comphor Pro",sans-serif;
+
+}
+ 
+ 
+ 
+ 
+ .collapse .nav-right {
+
+     list-style: none;
+
+
+
+
+ }
+
+ .collapse .nav-right .nav-item {
+
+
+     padding: 12px;
+     font: 16px "Comphor Pro",sans-serif;
+
+ }
+
+
+
+
+
+
+
+
+ .navbar-nav .nav-item .nav-link .fa-user {
+
+
+     margin-left: 10px;
+
+
+
+
+ }
+
+ .navbar-nav .nav-item .nav-link .fa-magnifying-glass {
+
+
+
+     margin-left: 10px;
+
+ }
