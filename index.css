@@ -1,24 +1,23 @@
- 
  .collapse .navbar-nav {
 
-    list-style: none;
+     list-style: none;
 
 
 
 
-}
- 
-.collapse .navbar-nav .nav-item {
+ }
+
+ .collapse .navbar-nav .nav-item {
 
 
-    padding: 12px;
-    font: 16px "Comphor Pro",sans-serif;
+     padding: 12px;
+     font: 16px "Comphor Pro", sans-serif;
 
-}
- 
- 
- 
- 
+ }
+
+
+
+
  .collapse .nav-right {
 
      list-style: none;
@@ -32,7 +31,7 @@
 
 
      padding: 12px;
-     font: 16px "Comphor Pro",sans-serif;
+     font: 16px "Comphor Pro", sans-serif;
 
  }
 
@@ -60,3 +59,30 @@
      margin-left: 10px;
 
  }
+
+
+
+ /* content style start */
+
+
+ .one-heading {
+
+     font: 24px sans-serif;
+     margin: 48px 0px 48px;
+     font-weight: 600;
+
+     color: #191919;
+
+ }
+
+
+ .content-items .content-one-item {
+
+     border: none;
+
+ }
+
+
+
+
+ /* content styles end */
