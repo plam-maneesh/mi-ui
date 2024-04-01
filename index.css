@@ -64,25 +64,28 @@
 
  /* content style start */
 
+ .one-list .one-item:hover {
 
- .one-heading {
 
-     font: 24px sans-serif;
-     margin: 48px 0px 48px;
-     font-weight: 600;
+     border-bottom: solid orange;
+     
 
-     color: #191919;
+     color: orange;
+
+
+ }
+
+ .one-heading {}
+
+ .one-list .one-item {
+
+     font: 16px sans-serif;
+
 
  }
 
 
- .content-items .content-one-item {
-
-     border: none;
-
- }
-
-
+ .b-hover {}
 
 
  /* content styles end */
