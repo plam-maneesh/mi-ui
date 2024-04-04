@@ -68,7 +68,7 @@
 
 
      border-bottom: solid orange;
-     
+
 
      color: orange;
 
@@ -88,4 +88,40 @@
  .b-hover {}
 
 
+ .list-style {
+
+     list-style: none;
+ }
+
+ .list-style-f {
+
+     list-style: none;
+ }
+
+
+ .list-style:hover {
+
+     color: orange;
+
+ }
+
  /* content styles end */
+
+
+ /* footer start */
+
+ .f-items {
+
+     font-size: small;
+
+     font-weight: 400;
+
+
+ }
+
+
+ 
+
+
+
+ /* footer end */
